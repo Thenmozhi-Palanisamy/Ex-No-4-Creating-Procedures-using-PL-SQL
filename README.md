@@ -10,6 +10,7 @@ Steps:
 5. Call the insert_employee data procedure to insert the values into the employee table.
 6. Display the employee table
 ## Program:
+```
 SQL> CREATE TABLE ep(
      empid NUMBER,
      empname VARCHAR(10),
@@ -27,6 +28,7 @@ CREATE OR REPLACE PROCEDURE emp_data AS
     COMMIT;
    END;
   /
+```
 
   ## output:
   ![image](https://github.com/Thenmozhi-Palanisamy/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/95198708/7f473885-ac38-4a15-a5c8-5d6b62949964)
