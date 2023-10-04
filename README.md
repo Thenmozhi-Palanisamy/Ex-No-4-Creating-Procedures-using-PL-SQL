@@ -29,8 +29,8 @@ CREATE OR REPLACE PROCEDURE emp_data AS
   /
 
   ## output:
-  
-  ![dbms 1](https://github.com/Thenmozhi-Palanisamy/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/95198708/3307fbe9-8cd9-4f01-82d3-855f4523541a)
+  ![image](https://github.com/Thenmozhi-Palanisamy/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/95198708/7f473885-ac38-4a15-a5c8-5d6b62949964)
 
+  
   ## Result:
   THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY
